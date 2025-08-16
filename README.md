@@ -1,6 +1,6 @@
 <div align="center" style="text-align: center;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=8B4513&lines=Hello,+I+am+Guilherme+🌵;I+am+a+Software+Developer+💻;Welcome+to+my+profile+🤠+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokUapp.com/?center=true&vCenter=true&color=8B4513&lines=Hello,+I+am+Guilherme+🌵;I+am+a+Software+Developer+💻;Welcome+to+my+profile+🤠+" alt="Typing SVG">
   </a>
 </div>
 
@@ -50,6 +50,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A0522D&height=120&section=footer"/>
+
 
 
 

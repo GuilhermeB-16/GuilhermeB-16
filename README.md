@@ -20,7 +20,7 @@
 <h3 align="center">Contato</h3>
 <div align="center">
   <a href="mailto:oliveiragabriela869@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"></a> &nbsp;
-  <a href="https://www.linkedin.com/in/gabriela-oliveira7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/guilherme-ventura-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div></a>&nbsp;
 
 

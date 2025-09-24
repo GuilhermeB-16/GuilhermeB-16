@@ -49,6 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-light.svg" height="40" alt="Streamlit Logo" />
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A0522D&height=120&section=footer"/>
 

@@ -15,7 +15,7 @@
 
 
 <p align="center"> |💻 Software Developer | ☁️ Cloud Computing | 🤖 Intelligent Engineer|</p>
-<p align="center">Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela UNIP, com certificação AWS Practitioner. Estou em busca de aprimorar meus conhecimentos em <strong>IA, Cloud e Desenvolvimento</strong>, estou aprendendo <strong>Python</strong> <strong>Docker</strong> e <strong>Kubernetes</strong>. Estou em busca da primeira oportunidade na área de tecnologia, onde eu possa aplicar meus conhecimentos e ganhar novas skills.</p>
+<p align="center">Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela UNIP, com certificação AWS Practitioner. Estou em busca de aprimorar meus conhecimentos em <strong>IA, Cloud e Desenvolvimento</strong>, estou aprendendo <strong>JAVA</strong> <strong>Docker</strong> e <strong>Angular</strong>. Estou em busca da primeira oportunidade na área de tecnologia, onde eu possa aplicar meus conhecimentos e ganhar novas skills.</p>
 
 <h3 align="center">Contato</h3>
 <div align="center">
@@ -31,7 +31,7 @@
 
 
 <h2 align="center">🛠️ Linguagens e Ferramentas</h2>
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
@@ -44,11 +44,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A0522D&height=120&section=footer"/>
 

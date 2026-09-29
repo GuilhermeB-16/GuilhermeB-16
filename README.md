@@ -15,7 +15,7 @@
 
 
 <p align="center"> |💻 Software Developer | ☁️ Cloud Computing | 🤖 Intelligent Engineer|</p>
-<p align="center">Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela UNIP, com certificação AWS Practitioner. Estou em busca de aprimorar meus conhecimentos em <strong>IA, Cloud e Desenvolvimento</strong>, estou aprendendo <strong>JAVA</strong> <strong>Docker</strong> e <strong>Angular</strong>. Estou em busca da primeira oportunidade na área de tecnologia, onde eu possa aplicar meus conhecimentos e ganhar novas skills.</p>
+<p align="center">Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela UNIP, com certificação AWS Practitioner. Estou em busca de aprimorar meus conhecimentos em <strong>IA, Cloud e DEVOPS</strong>, estou aprendendo <strong>CI/CD</strong> <strong>Docker</strong>, <strong>Kubernets</strong> e <strong>Kubernets</strong>. Estou em busca da primeira oportunidade na área de tecnologia, onde eu possa aplicar meus conhecimentos e ganhar novas skills.</p>
 
 <h3 align="center">Contato</h3>
 <div align="center">

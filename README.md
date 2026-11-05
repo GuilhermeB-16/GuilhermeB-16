@@ -14,8 +14,16 @@
 
 
 
-<p align="center"> |💻 Software Developer | ☁️ Cloud Computing | 🤖 Intelligent Engineer|</p>
-<p align="center">Formado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela UNIP, com certificação AWS Practitioner. Estou em busca de aprimorar meus conhecimentos em <strong>IA, Cloud e DEVOPS</strong>, estou aprendendo <strong>CI/CD</strong> <strong>Docker</strong>, <strong>Kubernets</strong> e <strong>Kubernets</strong>. Estou em busca da primeira oportunidade na área de tecnologia, onde eu possa aplicar meus conhecimentos e ganhar novas skills.</p>
+<p align="center"> |💻 Back-End Developer | ☁️ Cloud Computing | 🤖 DEVOPS|</p>
+<p align="center">
+  Olá, eu sou o Guilherme 👋
+  <br><br>
+  <strong>Desenvolvedor Backend Júnior</strong> com foco em <strong>Cloud e DevOps</strong>.
+  <br>
+  Formado em <strong>Análise e Desenvolvimento de Sistemas</strong> (UNIP) e certificado <strong>AWS Certified Cloud Practitioner</strong>.
+  <br>
+  Foco em aprendizado contínuo, buscando entender como a construção de software funciona, da arquitetura ao deploy.
+</p>
 
 <h3 align="center">Contato</h3>
 <div align="center">

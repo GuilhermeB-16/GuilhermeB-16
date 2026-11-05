@@ -1,8 +1,3 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?center=true&vCenter=true&color=1E6FD9&lines=Olá,+eu+sou+o+Guilherme+👋;Desenvolvedor+Backend+Júnior+💻;Node.js+·+Docker+·+AWS+☁️" alt="Typing SVG">
-  </a>
-</div>
 
 <div align="center">
   <img src="https://dummyimage.com/1200x3/8B4513/8B4513.png" width="100%" height="4" alt="marrom separador" />

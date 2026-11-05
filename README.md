@@ -1,8 +1,4 @@
 
-<div align="center">
-  <img src="https://dummyimage.com/1200x3/8B4513/8B4513.png" width="100%" height="4" alt="marrom separador" />
-</div>
-
 
 <p align="center"> |💻 Back-End Developer | ☁️ Cloud Computing | 🤖 DEVOPS|</p>
 <p align="center">

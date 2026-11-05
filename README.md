@@ -9,11 +9,6 @@
 </div>
 
 
-
-
-
-
-
 <p align="center"> |💻 Back-End Developer | ☁️ Cloud Computing | 🤖 DEVOPS|</p>
 <p align="center">
   Olá, eu sou o Guilherme 👋
@@ -28,7 +23,7 @@
 <h3 align="center">Contato</h3>
 <div align="center">
   <a href="mailto:oliveiragabriela869@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"></a> &nbsp;
-  <a href="https://www.linkedin.com/in/guilherme-ventura-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/guilhermevdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div></a>&nbsp;
 
 
@@ -51,8 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" al />
